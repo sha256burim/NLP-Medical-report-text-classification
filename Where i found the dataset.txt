@@ -1,0 +1,3 @@
+https://www.kaggle.com/data/99783
+https://www.kaggle.com/datasets?search=medical&tags=13204-NLP
+https://www.kaggle.com/tboyle10/medicaltranscriptions?select=mtsamples.csv
